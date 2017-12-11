@@ -19,6 +19,11 @@
 }
 
 @font-face {
+    font-family: 'productSans';
+    src: url("../font/productSans.woff2") format("woff2");
+}
+
+@font-face {
     font-family: 'SF-Pro-Text-Medium';
     font-weight: bold;
     src: url("../font/SF-Pro-Text-Medium.otf") format("opentype");
