@@ -1,5 +1,7 @@
 # Google Technical Interview Workshop
 @GoogleStudents
+
+If you wanna skip reading a first year freaking out about seeing google employees for the first time in his life skip to [here](https://github.com/arora-aditya/google-technical-interview-workshop#googlers-from-mountain-view)
 ## Pre Pre Workshop
 Just spoke to one of the people presenting and I asked him to give me some feedback on my resume. He gave me his personal email id and told me that he was 200 emails behind....He told me to remind him if he does not respond within a week. Aaaaaaaaaaaaaa I'm going crazy by the hype
 
