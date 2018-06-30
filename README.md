@@ -138,5 +138,5 @@ Here are the links from the email:
 - [Techinal Resume Tips with Google Recruiters](https://www.youtube.com/watch?v=ZjeXxLnnH5I)
 - [How to show 'Project Work' on a resume](https://www.youtube.com/watch?v=HcNr23p-92U)
 - [Personal Formula for a Winning Resume](https://www.linkedin.com/pulse/20140929001534-24454816-my-personal-formula-for-a-better-resume/)
-- [Google's Updated Tech Dev Guide](g.co/techdevguide)
+- [Google's Updated Tech Dev Guide](https://g.co/techdevguide)
 - [Former Google interview questions](https://techdevguide.withgoogle.com/resources/?types=coding-interview-question)
